@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamnas02
+- 👋 Hi, I’m @nART
 - 👀 I’m interested in finding out the digital world works and knowing tech things that tech users might not know. 
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on open source projects,code reviews,documentation, research collaboration or anything fun and challenging.
